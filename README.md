@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+B K Yogesh Portfolio Starting Page
+
