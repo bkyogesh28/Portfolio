@@ -1,0 +1,23 @@
+<img src="https://thumbs.gfycat.com/RaggedIckyAfricanaugurbuzzard-max-1mb.gif">
+<br>
+
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> root@yogeshbk.tech 
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> ********
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> Access Granted 
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> cat yogeshbk.txt
+
+<p>Hi there, this is Yogeshwar B K. I'm a Full Stack Developer and a Cyber Security Enthusiast. Collecting data and Analysing it is my hobby.CyberSecurity is my passion. I do hackathons as a freelancer. </p>
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> cat portfolio.txt
+<p>I develop Full stack Web Applications using MERN Stack.I have a intermediate experience in Flutter.I love to exploit Machines and search for bugs.My main stream of focus is on Pentesting and Security.</p>
+<p> There is a list of projects I made.Give it a look !!! <a href="link">portfolio</a>.</p>
+
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
+<p>You can ping me on or Connect me on</p>
+$<a href="https://www.linkedin.com/in/bk-yogesh/">Linkedin</a>
+$<a href="https://devpost.com/18eucs131?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">Devpost</a>
+$<a href="https://www.instagram.com/lebronyogi/">Instagram</a>
+
+
+Feel Free to contact me at <a href="mailto:root@yogeshbk.tech">root@yogeshbk.tech</a>
+
+<span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> Logoutt
