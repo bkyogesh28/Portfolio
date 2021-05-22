@@ -9,7 +9,7 @@
 <p>Hi there, this is Yogeshwar B K. I'm a Full Stack Developer and a Cyber Security Enthusiast. Collecting data and Analysing it is my hobby.CyberSecurity is my passion. I do hackathons as a freelancer. </p>
 <span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> cat portfolio.txt
 <p>I develop Full stack Web Applications using MERN Stack.I have a intermediate experience in Flutter.I love to exploit Machines and search for bugs.My main stream of focus is on Pentesting and Security.</p>
-<p> There is a list of projects I made.Give it a look !!! <a href="pages.yogeshbk.tech">portfolio</a>.</p>
+<p> There is a list of projects I made.Give it a look !!! <a href="https://yogeshbk.tech">portfolio</a>.</p>
 
 <span id="a">root@yogeshbk.tech</span>:<span id="b">~</span><span id="c">$</span> cat contact.txt
 <p>You can ping me on or Connect me on</p>
